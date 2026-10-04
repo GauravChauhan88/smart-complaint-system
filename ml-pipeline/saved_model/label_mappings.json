@@ -1,0 +1,13 @@
+{
+    "category_to_id": {
+        "Billing & Accounts": 0,
+        "Delivery & Fulfillment": 1,
+        "Product & Technical": 2
+    },
+    "urgency_to_id": {
+        "Low": 0,
+        "Medium": 1,
+        "High": 2,
+        "Critical": 3
+    }
+}

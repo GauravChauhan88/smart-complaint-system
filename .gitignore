@@ -1,0 +1,31 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.class
+*.pytest_cache/
+
+# Databases & Local State
+*.db
+*.sqlite3
+
+# Node & Frontend Build
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker Local State
+.docker/
+
+# Environment Variables & OS Files
+.env
+.DS_Store
+Thumbs.db
+# Model Binaries
+*.pt
+*.bin
+*.safetensors

@@ -1,0 +1,801 @@
+text,label,category,complaint_text,urgency
+"Advertised as metal, it’s plastic  ",2,Product & Technical,"Advertised as metal, it’s plastic",Low
+You charged me in error  ,0,Billing & Accounts,You charged me in error,High
+Only works intermittently  ,2,Product & Technical,Only works intermittently,Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+My receipt doesn’t match what was charged.  ,0,Billing & Accounts,My receipt doesn’t match what was charged.,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You overcharged me this month!  ,0,Billing & Accounts,You overcharged me this month!,High
+Why is there a service fee again?  ,0,Billing & Accounts,Why is there a service fee again?,High
+This delay messed up my whole schedule  ,1,Delivery & Fulfillment,This delay messed up my whole schedule,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+You gave my order to the wrong person  ,1,Delivery & Fulfillment,You gave my order to the wrong person,Medium
+Why is there a random fee here?  ,0,Billing & Accounts,Why is there a random fee here?,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Bubbles under the screen  ,2,Product & Technical,Bubbles under the screen,Low
+My item was delivered to the wrong door  ,1,Delivery & Fulfillment,My item was delivered to the wrong door,Medium
+Already stained straight out of the box  ,2,Product & Technical,Already stained straight out of the box,Low
+"I downgraded, why am I still paying the full amount?  ",0,Billing & Accounts,"I downgraded, why am I still paying the full amount?",Low
+It says delivered but I received nothing at all  ,1,Delivery & Fulfillment,It says delivered but I received nothing at all,Low
+Why charge a fee for canceling a trial?  ,0,Billing & Accounts,Why charge a fee for canceling a trial?,High
+I've been waiting for 2 hours and nothing arrived  ,1,Delivery & Fulfillment,I've been waiting for 2 hours and nothing arrived,Medium
+I can’t believe how badly this was handled  ,1,Delivery & Fulfillment,I can’t believe how badly this was handled,Low
+Driver was extremely careless  ,1,Delivery & Fulfillment,Driver was extremely careless,Low
+It was left in plain sight  ,1,Delivery & Fulfillment,It was left in plain sight,Low
+Handle doesn’t lock in place  ,2,Product & Technical,Handle doesn’t lock in place,Low
+Only works when plugged in  ,2,Product & Technical,Only works when plugged in,Medium
+"This is the wrong amount, plain and simple.  ",0,Billing & Accounts,"This is the wrong amount, plain and simple.",Medium
+You keep delivering broken stuff  ,1,Delivery & Fulfillment,You keep delivering broken stuff,Low
+Your support team is ignoring my messages  ,2,Product & Technical,Your support team is ignoring my messages,Low
+This isn't even my package  ,1,Delivery & Fulfillment,This isn't even my package,Low
+What’s this mystery fee on my statement?  ,0,Billing & Accounts,What’s this mystery fee on my statement?,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+My name isn’t even on the box  ,1,Delivery & Fulfillment,My name isn’t even on the box,Low
+Why’s my bill always changing?  ,0,Billing & Accounts,Why’s my bill always changing?,Low
+What’s this “maintenance fee”?  ,0,Billing & Accounts,What’s this “maintenance fee”?,High
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+The wrong items were thrown into a box  ,1,Delivery & Fulfillment,The wrong items were thrown into a box,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+You billed the wrong customer  ,0,Billing & Accounts,You billed the wrong customer,Medium
+Wheels don’t roll smoothly  ,2,Product & Technical,Wheels don’t roll smoothly,Low
+Parcel was tossed into my bushes  ,1,Delivery & Fulfillment,Parcel was tossed into my bushes,Low
+Tracking stopped updating  ,1,Delivery & Fulfillment,Tracking stopped updating,Low
+"This is the third ""lost"" delivery this month  ",1,Delivery & Fulfillment,"This is the third ""lost"" delivery this month",High
+You sent it to a closed store  ,1,Delivery & Fulfillment,You sent it to a closed store,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You never fixed the original delivery issue  ,1,Delivery & Fulfillment,You never fixed the original delivery issue,Medium
+My card was charged even though I canceled last week.  ,0,Billing & Accounts,My card was charged even though I canceled last week.,High
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+The packaging was torn open  ,2,Product & Technical,The packaging was torn open,Low
+I’m being charged for someone else’s account  ,0,Billing & Accounts,I’m being charged for someone else’s account,High
+Tracking hasn't updated in over a week  ,1,Delivery & Fulfillment,Tracking hasn't updated in over a week,Medium
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+I rejected the terms and still got billed.  ,0,Billing & Accounts,I rejected the terms and still got billed.,Low
+Tracking hasn't updated in over a week  ,1,Delivery & Fulfillment,Tracking hasn't updated in over a week,Medium
+This is a complete shipping failure  ,1,Delivery & Fulfillment,This is a complete shipping failure,High
+Why wasn’t I notified of the delay?  ,1,Delivery & Fulfillment,Why wasn’t I notified of the delay?,Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+I used a gift card—why am I still being charged?  ,0,Billing & Accounts,I used a gift card—why am I still being charged?,High
+There’s no excuse for this delay  ,1,Delivery & Fulfillment,There’s no excuse for this delay,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Still waiting and no one responds  ,1,Delivery & Fulfillment,Still waiting and no one responds,Medium
+This delay cost me a client  ,1,Delivery & Fulfillment,This delay cost me a client,Medium
+"Still waiting, it's been over ten days now  ",1,Delivery & Fulfillment,"Still waiting, it's been over ten days now",Medium
+Not compatible with anything I own  ,2,Product & Technical,Not compatible with anything I own,Low
+The box was already open when I got it  ,1,Delivery & Fulfillment,The box was already open when I got it,Medium
+Feels greasy to touch  ,2,Product & Technical,Feels greasy to touch,High
+I got the wrong color  ,2,Product & Technical,I got the wrong color,Medium
+No delivery note was left  ,1,Delivery & Fulfillment,No delivery note was left,Low
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+My package is completely destroyed  ,1,Delivery & Fulfillment,My package is completely destroyed,Low
+Already showing rust spots  ,2,Product & Technical,Already showing rust spots,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Where’s my subscription status update?  ,0,Billing & Accounts,Where’s my subscription status update?,Medium
+I got charged for something that never came  ,1,Delivery & Fulfillment,I got charged for something that never came,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+Still being billed after refund request  ,0,Billing & Accounts,Still being billed after refund request,High
+I was home—no one knocked  ,1,Delivery & Fulfillment,I was home—no one knocked,Low
+"I never clicked confirm, yet you charged me.  ",0,Billing & Accounts,"I never clicked confirm, yet you charged me.",High
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+You charged me before my free trial ended.  ,0,Billing & Accounts,You charged me before my free trial ended.,High
+Driver ignored my note completely  ,1,Delivery & Fulfillment,Driver ignored my note completely,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+You keep charging me even after I left  ,0,Billing & Accounts,You keep charging me even after I left,Low
+This bill has more items than I ordered.  ,0,Billing & Accounts,This bill has more items than I ordered.,Low
+This delay messed up my whole schedule  ,1,Delivery & Fulfillment,This delay messed up my whole schedule,Medium
+That late fee shouldn’t be there.  ,0,Billing & Accounts,That late fee shouldn’t be there.,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Only works when plugged in  ,2,Product & Technical,Only works when plugged in,Medium
+Why charge a fee for canceling a trial?  ,0,Billing & Accounts,Why charge a fee for canceling a trial?,High
+This amount is inflated  ,0,Billing & Accounts,This amount is inflated,Low
+This was supposed to be overnight  ,1,Delivery & Fulfillment,This was supposed to be overnight,Low
+Your system glitched and now I’m out $100.  ,0,Billing & Accounts,Your system glitched and now I’m out $100.,Low
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+"This is the third ""lost"" delivery this month  ",1,Delivery & Fulfillment,"This is the third ""lost"" delivery this month",High
+Your courier clearly lost my package  ,1,Delivery & Fulfillment,Your courier clearly lost my package,High
+"You promised metal, this is plastic  ",2,Product & Technical,"You promised metal, this is plastic",Low
+Another missing delivery—this is ridiculous  ,1,Delivery & Fulfillment,Another missing delivery—this is ridiculous,Low
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Case doesn’t close properly  ,2,Product & Technical,Case doesn’t close properly,Low
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+There’s no transparency in these charges  ,0,Billing & Accounts,There’s no transparency in these charges,Low
+The wrong items were thrown into a box  ,1,Delivery & Fulfillment,The wrong items were thrown into a box,Medium
+You gave my order to the wrong person  ,1,Delivery & Fulfillment,You gave my order to the wrong person,Medium
+You didn’t get authorization for that charge.  ,0,Billing & Accounts,You didn’t get authorization for that charge.,Low
+Why did the price go up?  ,0,Billing & Accounts,Why did the price go up?,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+The package is completely destroyed  ,1,Delivery & Fulfillment,The package is completely destroyed,Low
+This is the wrong currency.  ,0,Billing & Accounts,This is the wrong currency.,Medium
+There’s a chip in the ceramic  ,2,Product & Technical,There’s a chip in the ceramic,Low
+You said two days—it's been two weeks  ,1,Delivery & Fulfillment,You said two days—it's been two weeks,Low
+Already expired when I opened it  ,2,Product & Technical,Already expired when I opened it,Medium
+I canceled the order and you sent it anyway  ,1,Delivery & Fulfillment,I canceled the order and you sent it anyway,Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Why was my package redirected without permission?  ,1,Delivery & Fulfillment,Why was my package redirected without permission?,Low
+"Parcel dumped on the sidewalk, unbelievable  ",1,Delivery & Fulfillment,"Parcel dumped on the sidewalk, unbelievable",Low
+I used a gift card—why am I still being charged?  ,0,Billing & Accounts,I used a gift card—why am I still being charged?,High
+I said no to auto-renew.  ,0,Billing & Accounts,I said no to auto-renew.,Low
+Every order I place ends up delayed  ,1,Delivery & Fulfillment,Every order I place ends up delayed,Medium
+"Wrong color, wrong size, wrong everything  ",2,Product & Technical,"Wrong color, wrong size, wrong everything",Medium
+You never mentioned a renewal fee  ,0,Billing & Accounts,You never mentioned a renewal fee,High
+This has become a regular issue with you  ,1,Delivery & Fulfillment,This has become a regular issue with you,Medium
+Fix your mistake immediately  ,0,Billing & Accounts,Fix your mistake immediately,High
+I got charged twice for one item  ,2,Product & Technical,I got charged twice for one item,High
+The refund still hasn’t arrived  ,0,Billing & Accounts,The refund still hasn’t arrived,High
+You added features I didn’t ask for.  ,0,Billing & Accounts,You added features I didn’t ask for.,Low
+"Every time I order, it gets delayed  ",1,Delivery & Fulfillment,"Every time I order, it gets delayed",Medium
+You overcharged me this month!  ,0,Billing & Accounts,You overcharged me this month!,High
+Phone holder is crooked  ,2,Product & Technical,Phone holder is crooked,Low
+I only used it for one day.  ,0,Billing & Accounts,I only used it for one day.,Low
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+"This is the third ""lost"" delivery this month  ",1,Delivery & Fulfillment,"This is the third ""lost"" delivery this month",High
+Couldn’t install software  ,2,Product & Technical,Couldn’t install software,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Still no resolution after three emails  ,0,Billing & Accounts,Still no resolution after three emails,Low
+"I never clicked confirm, yet you charged me.  ",0,Billing & Accounts,"I never clicked confirm, yet you charged me.",High
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Smells terrible and made my hands itch  ,2,Product & Technical,Smells terrible and made my hands itch,High
+Cooling system doesn’t work  ,2,Product & Technical,Cooling system doesn’t work,Low
+"Still waiting, it's been over ten days now  ",1,Delivery & Fulfillment,"Still waiting, it's been over ten days now",Medium
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+My item was delivered to the wrong door  ,1,Delivery & Fulfillment,My item was delivered to the wrong door,Medium
+Why is this still pending on my card?  ,0,Billing & Accounts,Why is this still pending on my card?,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+You charged me during the grace period.  ,0,Billing & Accounts,You charged me during the grace period.,High
+I see a fee that shouldn’t be there.  ,0,Billing & Accounts,I see a fee that shouldn’t be there.,High
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Clips broke immediately  ,2,Product & Technical,Clips broke immediately,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Why am I being overcharged constantly?  ,0,Billing & Accounts,Why am I being overcharged constantly?,High
+"Wrong package, wrong address  ",1,Delivery & Fulfillment,"Wrong package, wrong address",Medium
+They didn’t knock or ring  ,1,Delivery & Fulfillment,They didn’t knock or ring,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+No updates on my delayed delivery  ,1,Delivery & Fulfillment,No updates on my delayed delivery,Medium
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+I got the wrong color  ,2,Product & Technical,I got the wrong color,Medium
+Tracking number isn’t even valid  ,1,Delivery & Fulfillment,Tracking number isn’t even valid,Low
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+Wrong measurement units  ,2,Product & Technical,Wrong measurement units,Medium
+It won’t even turn on  ,2,Product & Technical,It won’t even turn on,Low
+You said it’d be here today. It’s not.  ,1,Delivery & Fulfillment,You said it’d be here today. It’s not.,Low
+I followed up three times  ,2,Product & Technical,I followed up three times,Low
+Keeps freezing and lagging  ,2,Product & Technical,Keeps freezing and lagging,Low
+Please correct your mistake  ,0,Billing & Accounts,Please correct your mistake,Low
+Why wasn’t I notified of the delay?  ,1,Delivery & Fulfillment,Why wasn’t I notified of the delay?,Medium
+You charged me for shipping twice  ,2,Product & Technical,You charged me for shipping twice,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+The trial ended early and I got charged  ,0,Billing & Accounts,The trial ended early and I got charged,High
+Doesn’t stay connected via Bluetooth  ,2,Product & Technical,Doesn’t stay connected via Bluetooth,Low
+You charged me in error  ,0,Billing & Accounts,You charged me in error,High
+You sent it to an old address despite my update  ,1,Delivery & Fulfillment,You sent it to an old address despite my update,Medium
+You promised no extra fees  ,0,Billing & Accounts,You promised no extra fees,High
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+Wrong app linked in instructions  ,2,Product & Technical,Wrong app linked in instructions,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+The wrong items were thrown into a box  ,1,Delivery & Fulfillment,The wrong items were thrown into a box,Medium
+Items were open when I received them  ,1,Delivery & Fulfillment,Items were open when I received them,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Wrong app linked in instructions  ,2,Product & Technical,Wrong app linked in instructions,Medium
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+I want a replacement immediately  ,2,Product & Technical,I want a replacement immediately,High
+My order melted on the doorstep  ,1,Delivery & Fulfillment,My order melted on the doorstep,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Unexplained fee showed up  ,0,Billing & Accounts,Unexplained fee showed up,High
+You sent a child’s size  ,2,Product & Technical,You sent a child’s size,Low
+What is this processing fee for?  ,0,Billing & Accounts,What is this processing fee for?,High
+I never got my refund or my item  ,1,Delivery & Fulfillment,I never got my refund or my item,High
+Stop charging before the renewal date  ,0,Billing & Accounts,Stop charging before the renewal date,Low
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Straps broke immediately  ,2,Product & Technical,Straps broke immediately,High
+I disputed this already—why is it back?  ,0,Billing & Accounts,I disputed this already—why is it back?,High
+My food was delivered to the wrong building  ,1,Delivery & Fulfillment,My food was delivered to the wrong building,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+There are holes in the material  ,2,Product & Technical,There are holes in the material,Low
+Where’s my subscription status update?  ,0,Billing & Accounts,Where’s my subscription status update?,Medium
+My profile shows zero usage.  ,0,Billing & Accounts,My profile shows zero usage.,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+The box was already open when I got it  ,1,Delivery & Fulfillment,The box was already open when I got it,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+How many times must I complain?  ,0,Billing & Accounts,How many times must I complain?,Low
+Fix your mistake immediately  ,0,Billing & Accounts,Fix your mistake immediately,High
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You billed me for a service I haven’t touched.  ,0,Billing & Accounts,You billed me for a service I haven’t touched.,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+I got charged before the due date  ,0,Billing & Accounts,I got charged before the due date,High
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+What is this processing fee for?  ,0,Billing & Accounts,What is this processing fee for?,High
+This has happened three times now.  ,0,Billing & Accounts,This has happened three times now.,Low
+I never gave you permission to charge  ,0,Billing & Accounts,I never gave you permission to charge,Low
+Already expired when I opened it  ,2,Product & Technical,Already expired when I opened it,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+"I used points, but you charged me anyway.  ",0,Billing & Accounts,"I used points, but you charged me anyway.",High
+Product failed instantly  ,2,Product & Technical,Product failed instantly,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+I disputed this already—why is it back?  ,0,Billing & Accounts,I disputed this already—why is it back?,High
+Your “free” trial is a joke  ,0,Billing & Accounts,Your “free” trial is a joke,Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I want this reviewed immediately  ,0,Billing & Accounts,I want this reviewed immediately,High
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+Why am I being charged while suspended?  ,0,Billing & Accounts,Why am I being charged while suspended?,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Where’s the refund you promised last week?  ,0,Billing & Accounts,Where’s the refund you promised last week?,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Still no help from customer service  ,1,Delivery & Fulfillment,Still no help from customer service,Medium
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+How is this fee still showing up?  ,0,Billing & Accounts,How is this fee still showing up?,High
+Left at the wrong building  ,1,Delivery & Fulfillment,Left at the wrong building,Medium
+Even the email confirmation has the wrong total.  ,0,Billing & Accounts,Even the email confirmation has the wrong total.,Medium
+You keep increasing the amount without telling me.  ,0,Billing & Accounts,You keep increasing the amount without telling me.,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+You charged me and then canceled the service.  ,0,Billing & Accounts,You charged me and then canceled the service.,High
+Why is there a random fee here?  ,0,Billing & Accounts,Why is there a random fee here?,High
+You charged me and then canceled the service.  ,0,Billing & Accounts,You charged me and then canceled the service.,High
+I gave clear instructions—they were ignored  ,1,Delivery & Fulfillment,I gave clear instructions—they were ignored,Low
+Package left in puddle  ,1,Delivery & Fulfillment,Package left in puddle,Low
+You charged me during the grace period.  ,0,Billing & Accounts,You charged me during the grace period.,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+How is this fee still showing up?  ,0,Billing & Accounts,How is this fee still showing up?,High
+Color bleeds when washed  ,2,Product & Technical,Color bleeds when washed,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Why is there a random fee here?  ,0,Billing & Accounts,Why is there a random fee here?,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Refund my money and cancel everything  ,0,Billing & Accounts,Refund my money and cancel everything,High
+Support gave me copy-paste answers  ,2,Product & Technical,Support gave me copy-paste answers,Low
+"Wrong time, wrong date, wrong address  ",1,Delivery & Fulfillment,"Wrong time, wrong date, wrong address",Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+I was logged out and still charged.  ,0,Billing & Accounts,I was logged out and still charged.,High
+No one told me about a service fee.  ,0,Billing & Accounts,No one told me about a service fee.,High
+No tracking updates were available  ,2,Product & Technical,No tracking updates were available,Medium
+You’ve lost my order for the second time  ,1,Delivery & Fulfillment,You’ve lost my order for the second time,High
+Delivered to the wrong address  ,2,Product & Technical,Delivered to the wrong address,Medium
+I used a gift card—why am I still being charged?  ,0,Billing & Accounts,I used a gift card—why am I still being charged?,High
+That isn’t what I authorized  ,0,Billing & Accounts,That isn’t what I authorized,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+I want a refund—nothing arrived  ,1,Delivery & Fulfillment,I want a refund—nothing arrived,High
+Driver refused to come upstairs  ,1,Delivery & Fulfillment,Driver refused to come upstairs,Low
+The delivery guy went to the wrong house  ,1,Delivery & Fulfillment,The delivery guy went to the wrong house,Medium
+Package left in the wrong mailbox  ,1,Delivery & Fulfillment,Package left in the wrong mailbox,Medium
+These upsells are sneaky  ,0,Billing & Accounts,These upsells are sneaky,Low
+You gave my order to the wrong person  ,1,Delivery & Fulfillment,You gave my order to the wrong person,Medium
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+Delivered to the wrong address  ,2,Product & Technical,Delivered to the wrong address,Medium
+Still waiting for refund  ,2,Product & Technical,Still waiting for refund,High
+It falls apart when touched  ,2,Product & Technical,It falls apart when touched,Medium
+I got charged for something that never came  ,1,Delivery & Fulfillment,I got charged for something that never came,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I want a replacement immediately  ,2,Product & Technical,I want a replacement immediately,High
+Left at the wrong building  ,1,Delivery & Fulfillment,Left at the wrong building,Medium
+My payment wasn’t applied correctly  ,0,Billing & Accounts,My payment wasn’t applied correctly,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You charged me before my free trial ended.  ,0,Billing & Accounts,You charged me before my free trial ended.,High
+This service keeps failing me  ,1,Delivery & Fulfillment,This service keeps failing me,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+You’ve lost my order for the second time  ,1,Delivery & Fulfillment,You’ve lost my order for the second time,High
+I had to retrieve my parcel from a neighbor  ,1,Delivery & Fulfillment,I had to retrieve my parcel from a neighbor,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Arrived wet and moldy  ,2,Product & Technical,Arrived wet and moldy,Low
+Delivery came after midnight—are you serious?  ,1,Delivery & Fulfillment,Delivery came after midnight—are you serious?,Low
+Where’s the refund you promised last week?  ,0,Billing & Accounts,Where’s the refund you promised last week?,High
+You billed the wrong department.  ,0,Billing & Accounts,You billed the wrong department.,Medium
+The strap snapped instantly  ,2,Product & Technical,The strap snapped instantly,Low
+The handle fell off during first use  ,2,Product & Technical,The handle fell off during first use,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+That price is way above what’s reasonable.  ,0,Billing & Accounts,That price is way above what’s reasonable.,Low
+This monthly charge is unexpected  ,0,Billing & Accounts,This monthly charge is unexpected,Low
+Outdated version sent  ,2,Product & Technical,Outdated version sent,Low
+Where’s the rest of my order?  ,1,Delivery & Fulfillment,Where’s the rest of my order?,Low
+You charged me for shipping twice  ,2,Product & Technical,You charged me for shipping twice,High
+"I paid for express shipping, where is it?  ",1,Delivery & Fulfillment,"I paid for express shipping, where is it?",Low
+The box had someone else’s name on it  ,1,Delivery & Fulfillment,The box had someone else’s name on it,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+You sent it to an old address despite my update  ,1,Delivery & Fulfillment,You sent it to an old address despite my update,Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+I want a refund—nothing arrived  ,1,Delivery & Fulfillment,I want a refund—nothing arrived,High
+Wi-Fi constantly disconnects  ,2,Product & Technical,Wi-Fi constantly disconnects,Low
+No updates on my delayed delivery  ,1,Delivery & Fulfillment,No updates on my delayed delivery,Medium
+I want a replacement immediately  ,2,Product & Technical,I want a replacement immediately,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+It buzzes even when turned off  ,2,Product & Technical,It buzzes even when turned off,Medium
+Still being billed after refund request  ,0,Billing & Accounts,Still being billed after refund request,High
+Feels greasy to touch  ,2,Product & Technical,Feels greasy to touch,High
+It was dumped on the stairs  ,1,Delivery & Fulfillment,It was dumped on the stairs,Low
+You sent the wrong voltage version  ,2,Product & Technical,You sent the wrong voltage version,Medium
+It buzzes even when turned off  ,2,Product & Technical,It buzzes even when turned off,Medium
+Only works when plugged in  ,2,Product & Technical,Only works when plugged in,Medium
+My order keeps getting delayed  ,1,Delivery & Fulfillment,My order keeps getting delayed,Medium
+I want this reviewed immediately  ,0,Billing & Accounts,I want this reviewed immediately,High
+Unstable when standing  ,2,Product & Technical,Unstable when standing,Medium
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+I was charged twice for the same thing and I want a refund!  ,0,Billing & Accounts,I was charged twice for the same thing and I want a refund!,High
+Every part feels misaligned  ,2,Product & Technical,Every part feels misaligned,High
+This is the last time I order from you  ,1,Delivery & Fulfillment,This is the last time I order from you,Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I was home but no one knocked  ,1,Delivery & Fulfillment,I was home but no one knocked,Low
+I want a replacement immediately  ,2,Product & Technical,I want a replacement immediately,High
+I got charged before the due date  ,0,Billing & Accounts,I got charged before the due date,High
+Still waiting for last month’s correction  ,0,Billing & Accounts,Still waiting for last month’s correction,Medium
+Delivered to the wrong address  ,2,Product & Technical,Delivered to the wrong address,Medium
+You gave my order to the wrong person  ,1,Delivery & Fulfillment,You gave my order to the wrong person,Medium
+I never got an invoice  ,0,Billing & Accounts,I never got an invoice,Low
+My parcel got delivered to the wrong state  ,1,Delivery & Fulfillment,My parcel got delivered to the wrong state,Medium
+Already had cracks on it  ,2,Product & Technical,Already had cracks on it,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+The seam burst while trying it on  ,2,Product & Technical,The seam burst while trying it on,Low
+Still no sign of my package  ,1,Delivery & Fulfillment,Still no sign of my package,Low
+There’s no explanation for this random charge.  ,0,Billing & Accounts,There’s no explanation for this random charge.,Low
+I’m being charged for someone else’s account  ,0,Billing & Accounts,I’m being charged for someone else’s account,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Driver refused to come to the door  ,1,Delivery & Fulfillment,Driver refused to come to the door,Low
+My order was given to the wrong person  ,1,Delivery & Fulfillment,My order was given to the wrong person,Medium
+I called support—no one helped  ,1,Delivery & Fulfillment,I called support—no one helped,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+The zipper broke immediately  ,2,Product & Technical,The zipper broke immediately,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Refund my money and cancel everything  ,0,Billing & Accounts,Refund my money and cancel everything,High
+The mechanism sticks constantly  ,2,Product & Technical,The mechanism sticks constantly,Low
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+The zipper broke immediately  ,2,Product & Technical,The zipper broke immediately,High
+Buttons are stuck and don’t respond  ,2,Product & Technical,Buttons are stuck and don’t respond,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Wrong language on packaging  ,2,Product & Technical,Wrong language on packaging,Medium
+The wrong items were thrown into a box  ,1,Delivery & Fulfillment,The wrong items were thrown into a box,Medium
+One side doesn’t function  ,2,Product & Technical,One side doesn’t function,Low
+You charged my expired card.  ,0,Billing & Accounts,You charged my expired card.,High
+You sent the wrong voltage version  ,2,Product & Technical,You sent the wrong voltage version,Medium
+You sent the wrong item entirely  ,2,Product & Technical,You sent the wrong item entirely,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Your math doesn’t check out.  ,0,Billing & Accounts,Your math doesn’t check out.,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+You charged me for a month I didn’t use.  ,0,Billing & Accounts,You charged me for a month I didn’t use.,High
+It says $0 on the confirmation page.  ,0,Billing & Accounts,It says $0 on the confirmation page.,Low
+It’s been delayed three times now  ,1,Delivery & Fulfillment,It’s been delayed three times now,Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+You shipped to the wrong ZIP code  ,1,Delivery & Fulfillment,You shipped to the wrong ZIP code,Medium
+Color bleeds when washed  ,2,Product & Technical,Color bleeds when washed,Medium
+This delay messed up my whole schedule  ,1,Delivery & Fulfillment,This delay messed up my whole schedule,Medium
+Driver left the gate wide open  ,1,Delivery & Fulfillment,Driver left the gate wide open,Low
+Wrong app linked in instructions  ,2,Product & Technical,Wrong app linked in instructions,Medium
+Won’t hold temperature  ,2,Product & Technical,Won’t hold temperature,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+"No updates, no delivery, no apology  ",1,Delivery & Fulfillment,"No updates, no delivery, no apology",Medium
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+I received a torn-up box with missing items  ,1,Delivery & Fulfillment,I received a torn-up box with missing items,Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+You’re billing me for something I canceled last year.  ,0,Billing & Accounts,You’re billing me for something I canceled last year.,Low
+You ruined a surprise gift by delivering early  ,1,Delivery & Fulfillment,You ruined a surprise gift by delivering early,Low
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+Driver left it by the wrong door  ,1,Delivery & Fulfillment,Driver left it by the wrong door,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+There was no delivery window provided  ,1,Delivery & Fulfillment,There was no delivery window provided,Low
+"Nothing has arrived, again  ",1,Delivery & Fulfillment,"Nothing has arrived, again",Low
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+I needed that for today’s event  ,1,Delivery & Fulfillment,I needed that for today’s event,Low
+No mounting instructions  ,2,Product & Technical,No mounting instructions,Low
+The charge is higher than the quote  ,0,Billing & Accounts,The charge is higher than the quote,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Feels very flimsy and cheap  ,2,Product & Technical,Feels very flimsy and cheap,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+"This is clearly used, not new  ",2,Product & Technical,"This is clearly used, not new",Low
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+"Still waiting, it's been over ten days now  ",1,Delivery & Fulfillment,"Still waiting, it's been over ten days now",Medium
+Only works when plugged in  ,2,Product & Technical,Only works when plugged in,Medium
+Delivered to the wrong address  ,2,Product & Technical,Delivered to the wrong address,Medium
+This isn't even my email.  ,0,Billing & Accounts,This isn't even my email.,Low
+The delivery guy went to the wrong house  ,1,Delivery & Fulfillment,The delivery guy went to the wrong house,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Why do I have a late fee?  ,0,Billing & Accounts,Why do I have a late fee?,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Nothing has changed—why is the charge higher?  ,0,Billing & Accounts,Nothing has changed—why is the charge higher?,Low
+I never enabled this option.  ,0,Billing & Accounts,I never enabled this option.,Low
+I didn’t agree to monthly billing  ,0,Billing & Accounts,I didn’t agree to monthly billing,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+"The label says fragile, but it was thrown around  ",1,Delivery & Fulfillment,"The label says fragile, but it was thrown around",Low
+I paid in full. Why am I being charged again?  ,0,Billing & Accounts,I paid in full. Why am I being charged again?,High
+What’s this “maintenance fee”?  ,0,Billing & Accounts,What’s this “maintenance fee”?,High
+You keep delivering to the wrong house  ,1,Delivery & Fulfillment,You keep delivering to the wrong house,Medium
+Paint is rubbing off already  ,2,Product & Technical,Paint is rubbing off already,Low
+Every order I place ends up delayed  ,1,Delivery & Fulfillment,Every order I place ends up delayed,Medium
+I expect this to be fixed today  ,0,Billing & Accounts,I expect this to be fixed today,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Why am I being charged while suspended?  ,0,Billing & Accounts,Why am I being charged while suspended?,High
+Received completely wrong product  ,2,Product & Technical,Received completely wrong product,Medium
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+I updated my plan—why is it still wrong?  ,0,Billing & Accounts,I updated my plan—why is it still wrong?,Medium
+Device overheats within minutes  ,2,Product & Technical,Device overheats within minutes,Low
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Wasn’t this included in my subscription?  ,0,Billing & Accounts,Wasn’t this included in my subscription?,Low
+Package said it was delivered but it’s clearly not  ,1,Delivery & Fulfillment,Package said it was delivered but it’s clearly not,Low
+This amount is higher than what I approved.  ,0,Billing & Accounts,This amount is higher than what I approved.,Low
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+Still being billed after refund request  ,0,Billing & Accounts,Still being billed after refund request,High
+You’ve delayed my order four times now  ,1,Delivery & Fulfillment,You’ve delayed my order four times now,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I’m done paying for your mistakes.  ,0,Billing & Accounts,I’m done paying for your mistakes.,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+"Wrong time, wrong date, wrong address  ",1,Delivery & Fulfillment,"Wrong time, wrong date, wrong address",Medium
+You keep delivering to the wrong house  ,1,Delivery & Fulfillment,You keep delivering to the wrong house,Medium
+I already disputed this charge.  ,0,Billing & Accounts,I already disputed this charge.,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+I didn’t receive everything I paid for  ,1,Delivery & Fulfillment,I didn’t receive everything I paid for,Low
+You never mentioned a renewal fee  ,0,Billing & Accounts,You never mentioned a renewal fee,High
+Why was it delivered to someone else’s house?  ,1,Delivery & Fulfillment,Why was it delivered to someone else’s house?,Low
+Where’s the updated invoice?  ,0,Billing & Accounts,Where’s the updated invoice?,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Refund my money and cancel everything  ,0,Billing & Accounts,Refund my money and cancel everything,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+"Still waiting, it's been over ten days now  ",1,Delivery & Fulfillment,"Still waiting, it's been over ten days now",Medium
+You charged my expired card.  ,0,Billing & Accounts,You charged my expired card.,High
+You delayed it again without informing me  ,1,Delivery & Fulfillment,You delayed it again without informing me,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+You said it was fixed. It’s not.  ,0,Billing & Accounts,You said it was fixed. It’s not.,Low
+"Wrong color, wrong size, wrong everything  ",2,Product & Technical,"Wrong color, wrong size, wrong everything",Medium
+This has gone on too long  ,0,Billing & Accounts,This has gone on too long,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+I’ve had enough of this nonsense  ,0,Billing & Accounts,I’ve had enough of this nonsense,Low
+The wrong items were thrown into a box  ,1,Delivery & Fulfillment,The wrong items were thrown into a box,Medium
+You sent it to an old address despite my update  ,1,Delivery & Fulfillment,You sent it to an old address despite my update,Medium
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+Driver didn’t follow any instructions  ,1,Delivery & Fulfillment,Driver didn’t follow any instructions,Low
+You billed the wrong customer  ,0,Billing & Accounts,You billed the wrong customer,Medium
+Why am I being charged while suspended?  ,0,Billing & Accounts,Why am I being charged while suspended?,High
+Your records are wrong.  ,0,Billing & Accounts,Your records are wrong.,Medium
+The app crashed and still charged me.  ,0,Billing & Accounts,The app crashed and still charged me.,High
+They delivered without confirming my address  ,1,Delivery & Fulfillment,They delivered without confirming my address,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Why can’t they just read the instructions?  ,1,Delivery & Fulfillment,Why can’t they just read the instructions?,Low
+You sent me the wrong product entirely  ,2,Product & Technical,You sent me the wrong product entirely,Medium
+I want this reviewed immediately  ,0,Billing & Accounts,I want this reviewed immediately,High
+Items were open when I received them  ,1,Delivery & Fulfillment,Items were open when I received them,Medium
+Why are you using such unreliable couriers?  ,1,Delivery & Fulfillment,Why are you using such unreliable couriers?,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Driver used the wrong entrance  ,1,Delivery & Fulfillment,Driver used the wrong entrance,Medium
+They said “delivered” but nothing is here  ,1,Delivery & Fulfillment,They said “delivered” but nothing is here,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Cracked charger brick  ,2,Product & Technical,Cracked charger brick,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Your records are wrong.  ,0,Billing & Accounts,Your records are wrong.,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Left at the wrong building  ,1,Delivery & Fulfillment,Left at the wrong building,Medium
+It was left at the wrong building entirely  ,1,Delivery & Fulfillment,It was left at the wrong building entirely,Medium
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+Why does this keep happening?  ,0,Billing & Accounts,Why does this keep happening?,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+You charged me for something I didn’t get  ,1,Delivery & Fulfillment,You charged me for something I didn’t get,High
+You shipped to the wrong ZIP code  ,1,Delivery & Fulfillment,You shipped to the wrong ZIP code,Medium
+"No transparency, just more fees  ",0,Billing & Accounts,"No transparency, just more fees",High
+The product was soaking wet when opened  ,2,Product & Technical,The product was soaking wet when opened,Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+Why did it go to another city first?  ,1,Delivery & Fulfillment,Why did it go to another city first?,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Why does no one take responsibility?  ,1,Delivery & Fulfillment,Why does no one take responsibility?,Low
+You charged me even though I used a gift card.  ,0,Billing & Accounts,You charged me even though I used a gift card.,High
+You charged me for shipping twice  ,2,Product & Technical,You charged me for shipping twice,High
+I see a fee that shouldn’t be there.  ,0,Billing & Accounts,I see a fee that shouldn’t be there.,High
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+You charged me for a month I didn’t use.  ,0,Billing & Accounts,You charged me for a month I didn’t use.,High
+Every part feels misaligned  ,2,Product & Technical,Every part feels misaligned,High
+The driver never came to my door  ,1,Delivery & Fulfillment,The driver never came to my door,Low
+You split my order and lost half  ,1,Delivery & Fulfillment,You split my order and lost half,High
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Unexplained fee showed up  ,0,Billing & Accounts,Unexplained fee showed up,High
+This is a complete shipping failure  ,1,Delivery & Fulfillment,This is a complete shipping failure,High
+They left it in the lobby—again  ,1,Delivery & Fulfillment,They left it in the lobby—again,Low
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+This fee came out of nowhere  ,0,Billing & Accounts,This fee came out of nowhere,High
+The app crashed and still charged me.  ,0,Billing & Accounts,The app crashed and still charged me.,High
+Still waiting for last month’s correction  ,0,Billing & Accounts,Still waiting for last month’s correction,Medium
+This has become a monthly headache  ,0,Billing & Accounts,This has become a monthly headache,Low
+My order was given to the wrong person  ,1,Delivery & Fulfillment,My order was given to the wrong person,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+I need a real explanation  ,0,Billing & Accounts,I need a real explanation,Low
+No tracking update in 48 hours  ,1,Delivery & Fulfillment,No tracking update in 48 hours,Medium
+Paint has visible brush strokes  ,2,Product & Technical,Paint has visible brush strokes,Low
+All accessories are missing  ,2,Product & Technical,All accessories are missing,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+It was left at the wrong building entirely  ,1,Delivery & Fulfillment,It was left at the wrong building entirely,Medium
+Why is there a random fee here?  ,0,Billing & Accounts,Why is there a random fee here?,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+I want this reviewed immediately  ,0,Billing & Accounts,I want this reviewed immediately,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+The box was already open when I got it  ,1,Delivery & Fulfillment,The box was already open when I got it,Medium
+You delayed the delivery and didn’t tell me  ,1,Delivery & Fulfillment,You delayed the delivery and didn’t tell me,Medium
+You’ve delayed my order four times now  ,1,Delivery & Fulfillment,You’ve delayed my order four times now,Medium
+Already expired when I opened it  ,2,Product & Technical,Already expired when I opened it,Medium
+I paid on time—why the late charge?  ,0,Billing & Accounts,I paid on time—why the late charge?,Low
+Button fell off the first day  ,2,Product & Technical,Button fell off the first day,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+The app crashed and still charged me.  ,0,Billing & Accounts,The app crashed and still charged me.,High
+"Wrong package, wrong address  ",1,Delivery & Fulfillment,"Wrong package, wrong address",Medium
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+There’s no excuse for this delay  ,1,Delivery & Fulfillment,There’s no excuse for this delay,Medium
+Stop charging me for things I didn’t agree to  ,0,Billing & Accounts,Stop charging me for things I didn’t agree to,Low
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+You shipped to the wrong ZIP code  ,1,Delivery & Fulfillment,You shipped to the wrong ZIP code,Medium
+I got charged for something that never came  ,1,Delivery & Fulfillment,I got charged for something that never came,High
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+You’ve lost me as a customer  ,2,Product & Technical,You’ve lost me as a customer,High
+This isn’t the payment plan I selected.  ,0,Billing & Accounts,This isn’t the payment plan I selected.,Low
+Driver left it by the wrong door  ,1,Delivery & Fulfillment,Driver left it by the wrong door,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+The seal was broken when it arrived  ,2,Product & Technical,The seal was broken when it arrived,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+You sent me the wrong product entirely  ,2,Product & Technical,You sent me the wrong product entirely,Medium
+You sent the wrong version number  ,2,Product & Technical,You sent the wrong version number,Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Item feels cheap and flimsy  ,2,Product & Technical,Item feels cheap and flimsy,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Someone else’s name is on this bill.  ,0,Billing & Accounts,Someone else’s name is on this bill.,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+I want a replacement immediately  ,2,Product & Technical,I want a replacement immediately,High
+Clips broke immediately  ,2,Product & Technical,Clips broke immediately,High
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Why was it delivered at midnight?  ,1,Delivery & Fulfillment,Why was it delivered at midnight?,Low
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+You keep delivering to the wrong house  ,1,Delivery & Fulfillment,You keep delivering to the wrong house,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Why is the statement blank?  ,0,Billing & Accounts,Why is the statement blank?,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Straps broke immediately  ,2,Product & Technical,Straps broke immediately,High
+This isn’t what I signed up for  ,0,Billing & Accounts,This isn’t what I signed up for,Low
+Why leave packages where anyone can steal them?  ,1,Delivery & Fulfillment,Why leave packages where anyone can steal them?,Low
+Why am I being overcharged constantly?  ,0,Billing & Accounts,Why am I being overcharged constantly?,High
+Received the wrong pattern  ,2,Product & Technical,Received the wrong pattern,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+You auto-filled the wrong plan.  ,0,Billing & Accounts,You auto-filled the wrong plan.,Medium
+Why does this happen every time?  ,1,Delivery & Fulfillment,Why does this happen every time?,Low
+You’ve lost me as a customer  ,2,Product & Technical,You’ve lost me as a customer,High
+My order keeps getting delayed  ,1,Delivery & Fulfillment,My order keeps getting delayed,Medium
+You’ve lost me as a customer  ,2,Product & Technical,You’ve lost me as a customer,High
+My hand got cut opening it  ,2,Product & Technical,My hand got cut opening it,Low
+You’ve lost me as a customer  ,2,Product & Technical,You’ve lost me as a customer,High
+Can’t update the firmware  ,2,Product & Technical,Can’t update the firmware,Medium
+You didn’t apply the store credit I had.  ,0,Billing & Accounts,You didn’t apply the store credit I had.,Low
+"This is the third ""lost"" delivery this month  ",1,Delivery & Fulfillment,"This is the third ""lost"" delivery this month",High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Why am I being charged while suspended?  ,0,Billing & Accounts,Why am I being charged while suspended?,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+I’m tired of repeating myself  ,0,Billing & Accounts,I’m tired of repeating myself,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Unexplained fee showed up  ,0,Billing & Accounts,Unexplained fee showed up,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Why am I paying for premium?  ,0,Billing & Accounts,Why am I paying for premium?,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Wrong size and doesn’t fit at all  ,2,Product & Technical,Wrong size and doesn’t fit at all,Medium
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+This was clearly returned by someone else  ,2,Product & Technical,This was clearly returned by someone else,Low
+No one told me about a service fee.  ,0,Billing & Accounts,No one told me about a service fee.,High
+This makes absolutely no sense.  ,0,Billing & Accounts,This makes absolutely no sense.,Low
+Very stiff and uncomfortable  ,2,Product & Technical,Very stiff and uncomfortable,Low
+Driver used the wrong entrance  ,1,Delivery & Fulfillment,Driver used the wrong entrance,Medium
+Straps broke immediately  ,2,Product & Technical,Straps broke immediately,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+No tracking update in 48 hours  ,1,Delivery & Fulfillment,No tracking update in 48 hours,Medium
+I explicitly said “leave at front desk”—ignored  ,1,Delivery & Fulfillment,I explicitly said “leave at front desk”—ignored,Low
+Why is there a service fee again?  ,0,Billing & Accounts,Why is there a service fee again?,High
+Items were open when I received them  ,1,Delivery & Fulfillment,Items were open when I received them,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+You didn’t mention an activation fee  ,0,Billing & Accounts,You didn’t mention an activation fee,High
+Item was clearly returned and resold  ,2,Product & Technical,Item was clearly returned and resold,Low
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+I’ve been waiting weeks for this  ,1,Delivery & Fulfillment,I’ve been waiting weeks for this,Medium
+I used a gift card—why am I still being charged?  ,0,Billing & Accounts,I used a gift card—why am I still being charged?,High
+You billed me after I deleted the app.  ,0,Billing & Accounts,You billed me after I deleted the app.,Low
+This service keeps failing me  ,1,Delivery & Fulfillment,This service keeps failing me,High
+You keep misdelivering my orders  ,1,Delivery & Fulfillment,You keep misdelivering my orders,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This has become a regular issue with you  ,1,Delivery & Fulfillment,This has become a regular issue with you,Medium
+You delayed it again without informing me  ,1,Delivery & Fulfillment,You delayed it again without informing me,Medium
+Only works when plugged in  ,2,Product & Technical,Only works when plugged in,Medium
+Package was dumped behind a bush  ,1,Delivery & Fulfillment,Package was dumped behind a bush,Low
+Unstable when standing  ,2,Product & Technical,Unstable when standing,Medium
+This was declined—why was it processed anyway?  ,0,Billing & Accounts,This was declined—why was it processed anyway?,Low
+Feels very flimsy and cheap  ,2,Product & Technical,Feels very flimsy and cheap,High
+You delivered to the wrong apartment again  ,1,Delivery & Fulfillment,You delivered to the wrong apartment again,Medium
+Switch doesn’t toggle  ,2,Product & Technical,Switch doesn’t toggle,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+You’ve lost me as a customer  ,2,Product & Technical,You’ve lost me as a customer,High
+You sent the wrong accessories  ,2,Product & Technical,You sent the wrong accessories,Medium
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Wrong language on packaging  ,2,Product & Technical,Wrong language on packaging,Medium
+You promised no extra fees  ,0,Billing & Accounts,You promised no extra fees,High
+Doesn’t have the advertised features  ,2,Product & Technical,Doesn’t have the advertised features,Low
+This delay messed up my whole schedule  ,1,Delivery & Fulfillment,This delay messed up my whole schedule,Medium
+Can’t update the firmware  ,2,Product & Technical,Can’t update the firmware,Medium
+I got charged after I opted out  ,0,Billing & Accounts,I got charged after I opted out,High
+You sent the wrong accessories  ,2,Product & Technical,You sent the wrong accessories,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+My card was charged even though I canceled last week.  ,0,Billing & Accounts,My card was charged even though I canceled last week.,High
+Refund my money and cancel everything  ,0,Billing & Accounts,Refund my money and cancel everything,High
+I never agreed to this extra fee.  ,0,Billing & Accounts,I never agreed to this extra fee.,High
+You charged me in error  ,0,Billing & Accounts,You charged me in error,High
+There’s no justification for this fee  ,0,Billing & Accounts,There’s no justification for this fee,High
+You sent me the wrong product entirely  ,2,Product & Technical,You sent me the wrong product entirely,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+No tracking update in 48 hours  ,1,Delivery & Fulfillment,No tracking update in 48 hours,Medium
+"This is the wrong amount, plain and simple.  ",0,Billing & Accounts,"This is the wrong amount, plain and simple.",Medium
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+No updates on my delayed delivery  ,1,Delivery & Fulfillment,No updates on my delayed delivery,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+You’ve charged me after deactivation  ,0,Billing & Accounts,You’ve charged me after deactivation,High
+"You charged me twice, on different days.  ",0,Billing & Accounts,"You charged me twice, on different days.",High
+The product was soaking wet when opened  ,2,Product & Technical,The product was soaking wet when opened,Medium
+You billed the wrong person.  ,0,Billing & Accounts,You billed the wrong person.,Medium
+This delay is messing up my plans  ,1,Delivery & Fulfillment,This delay is messing up my plans,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Items were open when I received them  ,1,Delivery & Fulfillment,Items were open when I received them,Medium
+Why am I being overcharged constantly?  ,0,Billing & Accounts,Why am I being overcharged constantly?,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Everything about this is wrong  ,2,Product & Technical,Everything about this is wrong,Medium
+"This is the wrong amount, plain and simple.  ",0,Billing & Accounts,"This is the wrong amount, plain and simple.",Medium
+Still waiting for a delivery that’s overdue  ,1,Delivery & Fulfillment,Still waiting for a delivery that’s overdue,Medium
+Came in the wrong packaging  ,2,Product & Technical,Came in the wrong packaging,Medium
+This delay is messing up my plans  ,1,Delivery & Fulfillment,This delay is messing up my plans,Medium
+Completely the wrong shade of blue  ,2,Product & Technical,Completely the wrong shade of blue,Medium
+I’m done being overcharged  ,0,Billing & Accounts,I’m done being overcharged,High
+Item feels cheap and flimsy  ,2,Product & Technical,Item feels cheap and flimsy,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+Tracking hasn't updated in over a week  ,1,Delivery & Fulfillment,Tracking hasn't updated in over a week,Medium
+I got someone else’s bill.  ,0,Billing & Accounts,I got someone else’s bill.,Low
+This is ruining my finances  ,0,Billing & Accounts,This is ruining my finances,Low
+There’s no explanation for this charge  ,0,Billing & Accounts,There’s no explanation for this charge,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+The zipper broke immediately  ,2,Product & Technical,The zipper broke immediately,High
+Can’t update the firmware  ,2,Product & Technical,Can’t update the firmware,Medium
+I signed up with a discount that never applied.  ,0,Billing & Accounts,I signed up with a discount that never applied.,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+Only one setting works  ,2,Product & Technical,Only one setting works,Low
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+The charge is completely invalid  ,0,Billing & Accounts,The charge is completely invalid,Low
+You didn’t mention an activation fee  ,0,Billing & Accounts,You didn’t mention an activation fee,High
+I found food crumbs inside  ,2,Product & Technical,I found food crumbs inside,Low
+The refund still hasn’t arrived  ,0,Billing & Accounts,The refund still hasn’t arrived,High
+Driver left it by the wrong door  ,1,Delivery & Fulfillment,Driver left it by the wrong door,Medium
+My order keeps getting delayed  ,1,Delivery & Fulfillment,My order keeps getting delayed,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+I caught an error on this statement again.  ,0,Billing & Accounts,I caught an error on this statement again.,Low
+Doesn’t even power on  ,2,Product & Technical,Doesn’t even power on,Low
+"Supposed to be leather, but it’s not  ",2,Product & Technical,"Supposed to be leather, but it’s not",Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+I need this urgently and it’s nowhere  ,1,Delivery & Fulfillment,I need this urgently and it’s nowhere,High
+They marked it delivered and it’s missing  ,1,Delivery & Fulfillment,They marked it delivered and it’s missing,Low
+Already expired when I opened it  ,2,Product & Technical,Already expired when I opened it,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+You billed the wrong person.  ,0,Billing & Accounts,You billed the wrong person.,Medium
+My subscription was supposed to end  ,0,Billing & Accounts,My subscription was supposed to end,Low
+I feel like I’m being tricked  ,0,Billing & Accounts,I feel like I’m being tricked,High
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+You sent me the wrong product entirely  ,2,Product & Technical,You sent me the wrong product entirely,Medium
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+I want proof of this charge  ,0,Billing & Accounts,I want proof of this charge,Low
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+"Package is torn, items falling out  ",1,Delivery & Fulfillment,"Package is torn, items falling out",Low
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+Not stainless steel as claimed  ,2,Product & Technical,Not stainless steel as claimed,Low
+The delivery guy went to the wrong house  ,1,Delivery & Fulfillment,The delivery guy went to the wrong house,Medium
+"No transparency, just more fees  ",0,Billing & Accounts,"No transparency, just more fees",High
+You shipped to the wrong ZIP code  ,1,Delivery & Fulfillment,You shipped to the wrong ZIP code,Medium
+The driver mixed up units again  ,1,Delivery & Fulfillment,The driver mixed up units again,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+It falls apart when touched  ,2,Product & Technical,It falls apart when touched,Medium
+No updates on my delayed delivery  ,1,Delivery & Fulfillment,No updates on my delayed delivery,Medium
+Package was stolen because it wasn’t hidden  ,1,Delivery & Fulfillment,Package was stolen because it wasn’t hidden,Critical
+No one takes responsibility  ,0,Billing & Accounts,No one takes responsibility,Low
+I found my package in the bushes  ,1,Delivery & Fulfillment,I found my package in the bushes,Low
+This is an unauthorized transaction  ,0,Billing & Accounts,This is an unauthorized transaction,Critical
+Smells terrible and made my hands itch  ,2,Product & Technical,Smells terrible and made my hands itch,High
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+Wrong manual included  ,2,Product & Technical,Wrong manual included,Medium
+You charged me before my free trial ended.  ,0,Billing & Accounts,You charged me before my free trial ended.,High
+I got charged after I opted out  ,0,Billing & Accounts,I got charged after I opted out,High
+How is this fee still showing up?  ,0,Billing & Accounts,How is this fee still showing up?,High
+I can’t believe you lost my order again  ,1,Delivery & Fulfillment,I can’t believe you lost my order again,High
+You sent me someone else’s stuff  ,1,Delivery & Fulfillment,You sent me someone else’s stuff,Low
+Completely the wrong shade of blue  ,2,Product & Technical,Completely the wrong shade of blue,Medium
+I never got my refund or my item  ,1,Delivery & Fulfillment,I never got my refund or my item,High
+You rescheduled without my consent  ,1,Delivery & Fulfillment,You rescheduled without my consent,Low
+Makes loud clicking noise  ,2,Product & Technical,Makes loud clicking noise,Low
+None of the buttons respond  ,2,Product & Technical,None of the buttons respond,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+I’m seeing an unfamiliar transaction  ,0,Billing & Accounts,I’m seeing an unfamiliar transaction,Low
+Product failed instantly  ,2,Product & Technical,Product failed instantly,High
+Every part feels misaligned  ,2,Product & Technical,Every part feels misaligned,High
+Feels very flimsy and cheap  ,2,Product & Technical,Feels very flimsy and cheap,High
+I got charged after I opted out  ,0,Billing & Accounts,I got charged after I opted out,High
+Hard to assemble with no guide  ,2,Product & Technical,Hard to assemble with no guide,Low
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+Driver used the wrong entrance  ,1,Delivery & Fulfillment,Driver used the wrong entrance,Medium
+The total jumped at checkout without explanation.  ,0,Billing & Accounts,The total jumped at checkout without explanation.,Low
+Came in the wrong packaging  ,2,Product & Technical,Came in the wrong packaging,Medium
+"Still waiting, even though it was “on truck”  ",1,Delivery & Fulfillment,"Still waiting, even though it was “on truck”",Medium
+Clips broke immediately  ,2,Product & Technical,Clips broke immediately,High
+Driver used the wrong entrance  ,1,Delivery & Fulfillment,Driver used the wrong entrance,Medium
+Product failed instantly  ,2,Product & Technical,Product failed instantly,High
+I want a refund—nothing arrived  ,1,Delivery & Fulfillment,I want a refund—nothing arrived,High
+There’s no receipt for this transaction.  ,0,Billing & Accounts,There’s no receipt for this transaction.,Low
+You dropped it off at the wrong block  ,1,Delivery & Fulfillment,You dropped it off at the wrong block,Medium
+Driver left it in the hallway—stolen  ,1,Delivery & Fulfillment,Driver left it in the hallway—stolen,Critical
+Your free trial is a scam  ,0,Billing & Accounts,Your free trial is a scam,Critical
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+You billed the wrong person.  ,0,Billing & Accounts,You billed the wrong person.,Medium
+I want a refund—nothing arrived  ,1,Delivery & Fulfillment,I want a refund—nothing arrived,High
+I feel like I’m being scammed  ,0,Billing & Accounts,I feel like I’m being scammed,Critical
+This delay messed up my whole schedule  ,1,Delivery & Fulfillment,This delay messed up my whole schedule,Medium
+The wrong items were dropped off  ,1,Delivery & Fulfillment,The wrong items were dropped off,Medium
+"I used points, but you charged me anyway.  ",0,Billing & Accounts,"I used points, but you charged me anyway.",High
+They delivered to the garage without asking  ,1,Delivery & Fulfillment,They delivered to the garage without asking,Low
+This charge is fraudulent  ,0,Billing & Accounts,This charge is fraudulent,Critical
+No support materials included  ,2,Product & Technical,No support materials included,Low
+I see a foreign transaction fee  ,0,Billing & Accounts,I see a foreign transaction fee,High
+Still waiting for last month’s correction  ,0,Billing & Accounts,Still waiting for last month’s correction,Medium

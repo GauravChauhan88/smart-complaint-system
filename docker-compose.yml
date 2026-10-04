@@ -1,0 +1,34 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: complaint_ai_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    networks:
+      - public-facing-tier
+      - internal-secure-tier
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: complaint_react_ui
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    networks:
+      - public-facing-tier
+    depends_on:
+      - backend
+
+networks:
+  public-facing-tier:
+    driver: bridge
+  internal-secure-tier:
+    internal: true
+    driver: bridge
